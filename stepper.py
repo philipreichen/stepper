@@ -4,6 +4,7 @@ import time
 GPIO.setmode(GPIO.BCM)
 # Test comment
 # Test comment 2
+# Test comment 3
 # 1x ground + 1x 5v source using orange/blue cable
 enable_pin = 18		# no color
 
